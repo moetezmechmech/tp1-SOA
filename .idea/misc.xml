@@ -8,6 +8,7 @@
         <option value="$PROJECT_DIR$/cours_microservice/pom.xml" />
         <option value="$PROJECT_DIR$/formateur/formateur/pom.xml" />
         <option value="$PROJECT_DIR$/formateur/pom.xml" />
+        <option value="$PROJECT_DIR$/eurekaserver/pom.xml" />
       </list>
     </option>
   </component>
