@@ -9,6 +9,7 @@
         <option value="$PROJECT_DIR$/formateur/formateur/pom.xml" />
         <option value="$PROJECT_DIR$/formateur/pom.xml" />
         <option value="$PROJECT_DIR$/eurekaserver/pom.xml" />
+        <option value="$PROJECT_DIR$/gatewayserver/pom.xml" />
       </list>
     </option>
   </component>
