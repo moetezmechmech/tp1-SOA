@@ -1,0 +1,11 @@
+spring:
+  config:
+    activate:
+      on-profile: "prod"
+
+
+build:
+  version: 2.0
+author:
+  name: "Moetez [Cours PROD]"
+  email: "moetez_cours_PROD@gmail.com"
